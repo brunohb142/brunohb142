@@ -24,7 +24,7 @@ Desenvolvedor focado em criar soluções eficientes e apaixonado por tecnologia.
 **Desenvolvimento de Software:**
 [![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://github.com/brunohb142)
 
-**Controlo de Versão:**
+**Controle de Versão:**
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://github.com/brunohb142)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/brunohb142)
 

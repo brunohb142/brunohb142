@@ -30,15 +30,10 @@ Desenvolvedor focado em criar soluções eficientes e apaixonado por tecnologia.
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunohb142&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunohb142&layout=compact&langs_count=7&theme=dark" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brunohb142&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunohb142&theme=dark" alt="GitHub Streak" />
-</div>
